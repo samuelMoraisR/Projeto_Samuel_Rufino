@@ -1,8 +1,4 @@
 public class A{
-    public static void main(String[] args)throws Exception{
-
-        
-    }
     private int A1;
     private float A2;
 
@@ -28,5 +24,8 @@ public class A{
 
     public void MA2(){
         System.out.println("Metodo MA2 da classe A");
+    }
+    public void  MA3(){
+        System.out.println(" Alteração a classe A partir do clone");
     }
 }
