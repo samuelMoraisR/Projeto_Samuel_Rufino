@@ -1,6 +1,6 @@
 public class C{
 
-    private int C1;
+    private int C1 ;
     private float C2;
 
     public int getC1(){
@@ -18,6 +18,7 @@ public class C{
     public void setC2(float C2){
         this.C2 =  C2;
     }
+
 
     public void MC1(){
         System.out.println("Metodo MC1 da classe C");
